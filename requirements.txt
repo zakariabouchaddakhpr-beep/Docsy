@@ -1,0 +1,17 @@
+# Day 1 dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+python-dotenv>=1.0.0
+groq>=0.11.0
+
+# Day 2+ (install now, save time later)
+llama-index>=0.11.0
+llama-index-llms-groq>=0.2.0
+llama-index-embeddings-huggingface>=0.3.0
+llama-index-vector-stores-chroma>=0.3.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# Day 3+
+streamlit>=1.39.0
